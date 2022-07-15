@@ -8,6 +8,14 @@
 a{  color: black;    text-decoration: none; margin-left: 10px; margin-right: 10px; }
 a:hover{  color: darkgrey; }
 
+.notice{
+ padding: auto; margin-bottom: 40px; margin-top: 40;
+}
+
+.tblue{
+        background-color: #288CD2;
+}
+
 .navbar{
     padding-left: 32px;
     padding-right: 32px;
